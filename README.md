@@ -1,1 +1,1 @@
-# AtCoder
+# AtCoderのプログラム集
